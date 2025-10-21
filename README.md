@@ -1,5 +1,7 @@
 # AIM MedVisor: Simplifying MRI Analysis with AI
 
+UPDATE: Deployed at https://www.medvisor.space/
+
 ## Project Overview
 
 AIM MedVisor is an AI-powered medical tool designed to streamline the diagnosis of spinal abnormalities through advanced MRI analysis. By leveraging dual-model AI systems, MedVisor reduces the barriers to diagnosis, making spinal health assessments more efficient and accessible.
